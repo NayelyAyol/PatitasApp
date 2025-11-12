@@ -1,5 +1,5 @@
 
-<h1 align="center"> 🐶 PATITAS APP 🐱</h1>
+<h1 align="center"> 🐶 PETCONNECT 🐱</h1>
 
 Sistema web pensado para los amantes de las mascotas en el conjunto habitacional “Torres El Pedregal” en Quito. Su objetivo es facilitar la vida de los dueños y el bienestar de sus mascotas mediante funciones integradas:
 
